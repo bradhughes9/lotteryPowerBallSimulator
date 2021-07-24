@@ -1,0 +1,23 @@
+The PowerBall Lottery:
+
+There are 69 white balls from which you have to pick 5 (in any order)
+and 26 red powerballs from which you have to pick 1.
+
+PowerBall Probability Calculation:
+
+5 out of 69 probability for the first white ball.
+4 out of 68 probability for the second white ball.
+3 out of 67 probability for the third white ball.
+2 out of 66 probability for the fourth white ball.
+1 out of 65 probability for the fifth white ball.
+
+1 out of 26 probability for the first red ball.
+
+So... this gives us
+(5/69) * (4/68) * (3/67) * (2/66) * (1/65) * (1/26) probability of winning:
+
+.000000003422297813023704
+
+OR to put it into odds form, take 1 and divide it by this number:
+
+1 chance in 292,201,338 tries!!!!
